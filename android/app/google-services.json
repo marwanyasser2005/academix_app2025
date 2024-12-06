@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62009723881",
+    "project_id": "marwan-project-2005",
+    "storage_bucket": "marwan-project-2005.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62009723881:android:758e7101769c966cb75978",
+        "android_client_info": {
+          "package_name": "com.example.academix_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-EOerJoVgOMW8pbvd6Q0M-RZhc5RP57U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
